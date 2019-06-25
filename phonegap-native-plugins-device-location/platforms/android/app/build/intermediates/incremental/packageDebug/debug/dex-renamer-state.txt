@@ -1,0 +1,4 @@
+#Tue Jun 25 11:24:06 IST 2019
+base.0=/Users/ankittanna/Desktop/PhoneGap/Exercise-18/phonegap-native-plugins-device-location/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
